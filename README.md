@@ -1,4 +1,5 @@
 Image Processing with OpenCV
+
 This project demonstrates basic image processing operations using OpenCV in Python. It reads an image, manipulates the image by cropping it, displays individual color channels (Red, Green, Blue), and converts the image to grayscale.
 
 Features
